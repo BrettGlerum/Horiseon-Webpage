@@ -8,9 +8,10 @@ This project is an edit of starting code for a webpage by a marketing agency nam
 
 The main usage of this code is to look as neat as possible, while staying functional and optimal. The main function of this website is to give tips on marketing online, and includes many simple parts. It has a header with three links that will scroll to their corresponding section of information, a background image that takes up most of the screen, three sections at the bottom with information on the best online marketing tips, and an aside with a couple more tips and icons to help make the website pop. The link to the website is listed here: https://brettglerum.github.io/Horiseon-Webpage/
 
-Screenshots included too: https://github.com/BrettGlerum/Horiseon-Webpage/blob/main/assets/images/Screenshot%20(5).png
+Screenshots included too:https://github.com/BrettGlerum/Horiseon-Webpage/blob/main/assets/images/Screenshot%20(3).png
 https://github.com/BrettGlerum/Horiseon-Webpage/blob/main/assets/images/Screenshot%20(4).png
-https://github.com/BrettGlerum/Horiseon-Webpage/blob/main/assets/images/Screenshot%20(3).png
+https://github.com/BrettGlerum/Horiseon-Webpage/blob/main/assets/images/Screenshot%20(5).png
+
 
 ## License
 
